@@ -1,0 +1,3 @@
+使用方法
+編譯(CMD)->  g++ main.cpp -o main
+執行(CMD)->  .\main 4000 PROGA.obj PROGB.obj PROGC.obj
